@@ -18,7 +18,7 @@
  */
 class CAVPP_MD_AdministrativeElementSetPlugin extends Omeka_Plugin_AbstractPlugin
 {
-    private $_elementSetName = 'Administrative Descriptive Metadata';
+    private $_elementSetName = 'Administrative Metadata';
 
     /**
      * @var array Hooks for the plugin.
