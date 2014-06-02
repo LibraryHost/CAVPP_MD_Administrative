@@ -54,4 +54,11 @@
             'data_type'   => 'Tiny Text',
         ),
 		
+		// Project Note
+		array(
+            'label' => 'Project Note',
+            'name'  => 'Project Note',
+            /* 'description' => 'Project Note.', */
+        ),
+		
 	);
